@@ -1,2 +1,2 @@
 #!/bin/bash
-ignore *.emacs
+ignor - .emacs
